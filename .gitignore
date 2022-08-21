@@ -1,3 +1,5 @@
 .idea/
 venv/
 __pycache__/
+checkpoint-18138/
+db.sqlite3

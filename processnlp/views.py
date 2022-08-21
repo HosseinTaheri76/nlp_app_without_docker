@@ -1,4 +1,4 @@
-from django.views.generic import FormView, DetailView
+from django.views.generic import CreateView, DetailView, FormView
 from django.contrib.auth.mixins import LoginRequiredMixin
 
 from .models import NlpModel
